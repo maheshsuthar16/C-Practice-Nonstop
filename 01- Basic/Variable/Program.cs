@@ -9,6 +9,9 @@ class Solution()
         float nums1 = 19.5f;    
         Console.WriteLine("Print the Number:" + nums);
         Console.WriteLine("Print the Float Number : " + nums1);
+        int age = 25;
+
+        Console.WriteLine(age);
 
         //In these  let understand the byte how that we can implement in these   int consider 4 byte  which equal to the 32 bits
         // so their range will between int  32 mean the range -2,147,483,648 to 2,147,483,647 
