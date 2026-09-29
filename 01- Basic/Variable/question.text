@@ -1,0 +1,19 @@
+1   Read two integers and print their sum	
+2	Read two integers and print sum, difference, product, quotient	
+3	Read a number and print its square and cube	
+4	Read two numbers and calculate their average
+5	Read length and width and calculate rectangle area	
+6	Read length and width and calculate rectangle perimeter
+7	Read radius and calculate circle area	
+8	Convert Celsius to Fahrenheit	
+9	Convert kilometers to meters and centimeters	
+10	Convert a number of days into hours, minutes,
+11	Read a person's name and age, then print a formatted sentence
+12	Read marks of 3 subjects and calculate total and percentage
+13	Read principal, rate, time and calculate simple interest
+14	Read a price and calculate price after 18% GST
+15	Read total seconds and convert them into minutes and remaining seconds	
+17	Swap two numbers using a third variable	
+18	Swap two numbers without a third variable	
+19	Read a 3-digit number and calculate the sum of its digits
+20	Create a simple player statistics calculator: name, score, health, speed, coins;
