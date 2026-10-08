@@ -29,10 +29,25 @@ class Program()
         {
             Console.WriteLine("False");
         }    }
+    
 
-
-        // Let begin from these the the if else -if, else
         
+        int n = int.Parse(Console.ReadLine());
+        if(n > 0){
+            Console.WriteLine("Positive");
+            
+        }
+        else if(n < 0){
+            Console.WriteLine("Negative");
+             e
+        }
+        else{
+            Console.WriteLine("Zero");
+        }
+
+
+
+
 
         
 }
