@@ -53,5 +53,28 @@ class Program()
         }
         Console.WriteLine(reversed);
 
+
+        
+
+        int sums= 0;
+        int a = 1223334;
+        while (a > 0)
+        {
+            int digits = a % 10;
+            sums = sums +digits;
+            a= a/10;
+        }
+        Console.WriteLine(sums);
+
+        int o = 10;
+        int factorial = 1;
+     
+        int j =1;
+        while (j <= o)
+        {
+            factorial = factorial * j;
+            j= j +1;
+        }
+        Console.WriteLine(factorial);
     }
 }
